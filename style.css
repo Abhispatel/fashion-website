@@ -1,0 +1,408 @@
+#nav1{
+    padding: 15px;
+}
+
+#heading1{
+    padding-left: 80px;
+    font-size: 40px;
+}
+#heading2{
+    padding-right: 50px;
+    
+}
+#heading3{
+    padding-left: 10px;
+}
+#heading4{
+    margin-left: 40px;
+    
+}
+#heading5{
+    margin-left: 60px;
+}
+#search{
+    font-size: 25px;
+    padding-left: 100px;
+    
+}
+#wishlist{
+    font-size: 25px;
+    padding-left: 40px;
+
+}
+#cart{
+    font-size: 25px;
+    padding-left: 40px;
+
+}
+#user{
+    font-size: 25px;
+    padding-left: 40px;
+}
+#caro1{
+    background-image: url("https://img.freepik.com/free-photo/confident-man-casual-clothing-walking-city-generated-by-artificial-intelligence_188544-126914.jpg?t=st=1712064199~exp=1712067799~hmac=805bd0ed7d4199ac6e3619c71d5c0b563c27de3f44f6057cc9013298da1fcc35&w=1060");
+
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+.para1 h1{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+
+}
+.para1 h3{
+    font-size: 100px;
+    text-align: center;
+    color: orangered ;
+}
+#btn1{
+    border: 2px solid orange;
+    justify-content: center;
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+.para3{
+    color: white;
+    border: 10px solid orange;
+    margin-top: 120px;
+    margin-left: 50px;
+    padding: 50px;
+    font-size: 20px;
+}
+#caro2{
+    background-image: url("https://img.freepik.com/free-photo/trendy-clothes-showcased-boutique-store_157027-3421.jpg?t=st=1712123237~exp=1712126837~hmac=da9e6ebe274d5a3b99e3e553685c597fbfa8136e2cbcf2f64c9470483de17957&w=1380");
+
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+
+}
+#caro2 h1{ 
+  font-size: 100px;
+  color: orangered;
+  padding-top: 80px;
+  padding-left: 30px;
+   
+}
+#caro3{
+    background-image: url("https://img.freepik.com/free-photo/stylish-clothing-displayed-boutique_157027-3525.jpg?t=st=1712123812~exp=1712127412~hmac=6322e236924c4016ba3f1ce136440ddf06cb05ce98f14c5426df31f009193312&w=1380");
+
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div1{
+    background-image: url("https://img.freepik.com/free-photo/attractive-brunet-man-stylish-white-shirt-trendy-sunglasses-poses-orange-background-holds-black-jacket_197531-29464.jpg?t=st=1712038043~exp=1712041643~hmac=a0c7f5ed1c5e273ad9da49a96185d9999db99ea6bf83d7cceb4690b437dddb84&w=996");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 90%;
+    margin-top: 40px;
+    border-radius: 40px;
+    margin-left: 30px;
+}
+.div2{
+     background-image: url("https://img.freepik.com/free-photo/joyful-european-lady-summer-hat-dancing-yellow-background-debonair-girl-long-skirt-laughing-while-posing-studio_197531-25996.jpg?t=st=1712038962~exp=1712042562~hmac=7e099e4fe5c69bf64c779b92d53591954464f225edcf044d1245187d612d7cac&w=996");
+
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 90%;
+    margin-top: 40px;
+    border-radius: 40px;
+    margin-left: 30px;
+}
+
+.him{
+    padding-top: 100px;
+    padding-left: 20px;
+    color: white;
+}
+.him1{
+    padding-left: 20px;
+    padding-right: 350px;
+    
+}
+  
+ .her{
+    padding-top: 100px;
+    padding-left: 20px;
+    color: white;
+  
+  }
+  .her1{
+    padding-left: 20px;
+    padding-right: 350px;
+    
+  }
+  #btn4{
+    border: 2px solid black;
+    margin-left: 40px;
+    margin-top: 20px;
+    transition: all 0.5s ease;
+
+  }
+  #btn4:active{
+    transform: scale(1.2);
+  }
+  #btn5{
+    border: 2px solid black;
+    margin-left: 40px;
+    margin-top: 20px;
+    transition: all 0.5s ease;
+}
+#btn5:active{
+    transform: scale(1.2);
+
+}
+
+
+.sec3{
+    margin-top: 40px;
+    background-color: orangered;
+}
+#btn6,#btn7,#btn8,#btn9,#btn10,#btn11,#btn12,#btn13,#btn14{
+    margin-left: 70px;
+}
+#btn14{
+    background-color: #0d6efd;
+    color: white;
+}
+.sec4{
+    height: 750px;
+    margin-top: 30px;
+    background-color: #eee;
+}
+.img14{
+    height: 550px;
+    margin-left: 100px;
+
+}
+
+
+.img15{
+    height: 350px;
+    
+    margin-top: 20px;
+}
+
+.img16{
+    height: 350px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+
+.img17{
+    height: 550px;
+
+}
+
+
+#btn15{
+    margin-left: 130px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+   
+.sec5{
+    background-color: rgb(250 246 241);
+    
+}
+.sec6{
+    margin-top: 50px;
+}
+.img18{
+    height: 600px;
+    width: 100%;
+}
+/* #store{ */
+    /* animation: store 10s infinite; */
+    
+/* } */
+/* @keyframes store */
+ /* { */
+    /* 0%{ */
+        /* transform: scale(1,1); */
+    /* } */
+    /* 100%{ */
+        /* transform: scale(1.5,1.5); */
+    /* } */
+/* } */
+.img19{
+    height: 600px;
+    width: 100%;
+}
+
+
+.para4{
+    text-align: center;
+    padding-top: 20px;
+}
+.para5{
+    text-align: center;
+    border-bottom: 2px solid black;
+
+}
+.para6{
+    font-size: 40px;
+}
+.para7{
+    font-size: 40px;
+}
+.accordion1{
+    width: 50%;
+}
+.sec7{
+    background-color: lightgray;
+    padding: 20px;
+    height: 250px;
+    margin-top: 100px;
+}
+
+
+.sec8{
+    margin-top: 50px;
+    background-color: rgb(33, 28, 28);
+    color: white;
+    height: 600px;
+}
+#i5{
+    font-size: 30px;
+    margin-left: 80px;
+    padding-top: 40px;
+}
+#i6{
+    font-size: 30px;
+    margin-left: 80px;
+    padding-top: 40px;
+
+}
+#i7{
+    font-size: 30px;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+#i8{
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+
+#i4{
+    margin-left: 10px;
+}
+#i3{
+    margin-left: 10px;
+}
+#i2{
+    margin-left: 10px;
+}
+#special{
+    margin-top: 10px;
+    width: 39%;
+    border: 2px solid white;
+    border-radius: 0px;
+    color: white;
+    transition: all 0.5s ease;
+}
+#special:active{
+    transform: scale(1.1);
+}
+#bottom1{
+    padding-top: 60px;
+}
+#bottom2{
+    padding-top: 60px
+}
+#bottom3{
+    margin-top: 60px;
+}
+
+footer{
+    text-align: center;
+    background-color: #857171;
+    color: white;
+    padding: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.owl-nav button {
+    position: absolute;
+    top: 50%;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    transition: all 0.3s ease-in-out;
+  }
+  .owl-nav button.owl-prev {
+    left: 0;
+  }
+  .owl-nav button.owl-next {
+    right: 0;
+  }
+  
+  .owl-dots {
+    text-align: center;
+    padding-top: 15px;
+  }
+  .owl-dots button.owl-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #ccc;
+    margin: 0 3px;
+  }
+  .owl-dots button.owl-dot.active {
+    background-color: #000;
+  }
+  .owl-dots button.owl-dot:focus {
+    outline: none;
+  }
+  .owl-nav button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255, 255, 255, 0.38) !important;
+  }
+  span {
+      font-size: 70px;    
+      position: relative;
+      top: -5px;
+  }
+  .owl-nav button:focus {
+      outline: none;
+  }
+
+

@@ -1,0 +1,293 @@
+#nav1{
+padding: 15px;
+}
+
+#heading1{
+    padding-left: 80px;
+    font-size: 40px;
+}
+#heading2{
+    padding-right: 50px;
+    
+}
+#heading3{
+    padding-left: 10px;
+}
+#heading4{
+    margin-left: 40px;
+    
+}
+#heading5{
+    margin-left: 60px;
+}
+#search{
+    font-size: 25px;
+    padding-left: 100px;
+    
+}
+#wishlist{
+    font-size: 25px;
+    padding-left: 40px;
+
+}
+#cart{
+    font-size: 25px;
+    padding-left: 40px;
+
+}
+#user{
+    font-size: 25px;
+    padding-left: 40px;
+}
+.div1{
+    background-image: url("https://img.freepik.com/free-photo/confident-businessman-suit-looking-camera-outdoors-generated-by-artificial-intelligence_188544-129585.jpg?w=1060");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+}
+.div1 h1{
+    font-size: 60px;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: white;
+}
+#btn1{
+    color: white;
+    border: 2px solid white;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.sec2{
+    margin-top: 50px;
+}
+.img1{
+    width: 100%;
+    height: 500px;
+}
+.img2{
+ width: 100%;
+ height: 500px;
+}
+.div2{
+    height: 500px;
+    text-align: center;
+    background-color: lightgrey;
+
+}
+.div2 h1{
+    font-size: 70px;
+    padding-top: 100px;
+}
+#btn2{
+    border: 2px solid black;
+    
+}
+#btn2:hover{
+    
+
+}
+.sec3{
+    margin-top: 60px;
+}
+.img3{
+    height: 500px;
+    width: 100%;
+    animation: zoom1 5s infinite;
+    
+}
+@keyframes zoom1 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent1{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.img4{
+    height: 500px;
+    width: 100%;
+    animation: zoom2 5s infinite;
+}
+@keyframes zoom2 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent2{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img5{
+    height: 700px;
+    width: 100%;
+    animation: zoom3 5s infinite;
+
+}
+@keyframes zoom3 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent3{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img6{
+    height: 500px;
+    width: 100%;
+    animation: zoom4 5s infinite;
+}
+@keyframes zoom4 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent4{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img7{
+    height: 500px;
+    width: 100%;
+    animation: zoom5 5s infinite;
+
+}
+@keyframes zoom5 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent5{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img8{
+    height: 500px;
+    width: 100%;
+    animation: zoom6 5s infinite;
+
+}
+@keyframes zoom6 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent6{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img9{
+    height: 500px;
+    width: 100%;
+    animation: zoom7 5s infinite;
+}
+@keyframes zoom7 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent7{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.img10{
+    height: 500px;
+    width: 100%;
+    animation: zoom8 5s infinite;
+}
+@keyframes zoom8 {
+    0%{
+      background-position: center;
+      transform: scale(1,1);
+    }
+    100%{
+      background-position: center;
+      transform: scale(1.2,1.2);
+    }
+}
+.parent8{
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+.sec4{
+    background-color: rgb(30, 25, 25);
+    height: 350px;
+    color: white;
+}
+#i4{
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+#i3{
+    margin-left: 20px;
+    font-size: 30px;
+}
+#i2{
+    margin-left: 20px;
+    font-size: 30px;
+}
+#i1{
+    font-size: 30px;
+}
+#special{
+    margin-top: 30px;
+    border: 1px solid white;
+    width: 40%;
+    color: white;
+}
+.input{
+    margin-top: 20px;
+}
+
+
+
+
+
